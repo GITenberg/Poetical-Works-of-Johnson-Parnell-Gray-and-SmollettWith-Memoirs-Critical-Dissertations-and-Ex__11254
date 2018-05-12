@@ -1,5 +1,8 @@
 _repo: Poetical-Works-of-Johnson-Parnell-Gray-and-SmollettWith-Memoirs-Critical-Dissertations-and-Ex__11254
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Johnson, Samuel
@@ -13,7 +16,7 @@ creator:
     - Smollett, Tobias George
     - Smollet, T. (Tobias)
     birthdate: 1721
-    deathdate: &id001 1771
+    deathdate: 1771
     gutenberg_agent_id: '838'
     url: http://www.gutenberg.org/2009/agents/838
     wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
@@ -26,7 +29,7 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Parnell
   - agent_name: Gray, Thomas
     birthdate: 1716
-    deathdate: *id001
+    deathdate: 1771
     gutenberg_agent_id: '4626'
     url: http://www.gutenberg.org/2009/agents/4626
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Gray
@@ -38,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3126
     wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11254#Poetical-Works-of-Johnson-Parnell-Gray-and-SmollettWith-Memoirs-Critical-Dissertations-and-Ex_
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
